@@ -1,0 +1,5 @@
+Vào file config chỉnh sửa gia trị value
+  
+FileListPath : đường dẫn danh sách file sql -- VD: E:\list.txt
+
+SourceDirectory : Đường dẫn thu mục chứa procedure, function, tables thường là AssignApp_DbProcedure_Dev -- VD: E:\GIT backlog\AssignApp_DbProcedure_Dev

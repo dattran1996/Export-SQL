@@ -1,0 +1,12 @@
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.csproj.CoreCompileInputs.cache
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.exe
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.pdb
+E:\AppCopy\CopyApp\bin\Debug\CopyApp.exe.config
+E:\AppCopy\CopyApp\bin\Debug\CopyApp.exe
+E:\AppCopy\CopyApp\bin\Debug\CopyApp.pdb
+E:\AppCopy\CopyApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.csproj.Fody.CopyLocal.cache
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.csproj.Fody.RuntimeCopyLocal.cache
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.csproj.CopyComplete
+E:\AppCopy\CopyApp\bin\Debug\Hướng dẫn.txt
+E:\AppCopy\CopyApp\obj\Debug\CopyApp.csproj.AssemblyReference.cache
